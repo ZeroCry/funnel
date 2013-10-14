@@ -1,4 +1,4 @@
-iFlask
+Flask
 Flask-Assets
 Flask-Mail
 Flask-Sqlalchemy
