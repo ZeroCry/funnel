@@ -1,4 +1,4 @@
-Flask
+iFlask
 Flask-Assets
 Flask-Mail
 Flask-Sqlalchemy
@@ -9,6 +9,8 @@ Flask-Oauth
 Flask-Script==0.5.3
 pytz
 unicodecsv
+alembic
+git+https://github.com/tobiasandtobias/flask-alembic.git#eggs=flask-alembic
 git+https://github.com/hasgeek/coaster.git
 git+https://github.com/hasgeek/flask-lastuser.git
 git+https://github.com/osdc/baseframe.git
