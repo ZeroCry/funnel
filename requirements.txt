@@ -6,8 +6,9 @@ jsmin
 Flask-Wtf
 Flask-OpenID
 Flask-Oauth
+Flask-Script==0.5.3
 pytz
 unicodecsv
 git+https://github.com/hasgeek/coaster.git
 git+https://github.com/hasgeek/flask-lastuser.git
-git+https://github.com/hasgeek/baseframe.git
+git+https://github.com/osdc/baseframe.git
